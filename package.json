@@ -1,0 +1,26 @@
+{
+  "name": "uptime-downtime-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejasLamba2006/uptime-downtime-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TejasLamba2006/uptime-downtime-bot/issues"
+  },
+  "homepage": "https://github.com/TejasLamba2006/uptime-downtime-bot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.4"
+  }
+}
